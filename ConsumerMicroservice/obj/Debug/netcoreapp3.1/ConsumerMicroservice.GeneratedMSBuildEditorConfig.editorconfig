@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ConsumerMicroservice
+build_property.ProjectDir = D:\kafkawithMicroservices\ConsumerMicroservice\
